@@ -24,13 +24,13 @@
 
  <h3 align="center">📱 Redes Sociais </h3>
 <div align="center">
-  <a href="https://github.com/RobertSantos-dev" target="_black">
+  <a href="https://github.com/RobertSantos-dev" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/robert-santos-389473238" target="_black">
+  <a href="https://www.linkedin.com/in/robert-santos-389473238" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/robert_saan/" target="_black">
+  <a href="https://www.instagram.com/robert_saan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
