@@ -7,8 +7,8 @@
 
 <h3 align="center">🤳 Status</h3>
 <div align="center">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=RobertSantos-dev&bg_color=45,000000,030147&hide_border=true&show_icons=true&title_color=00d5ff&text_color=ffffff&icon_color=04cc5b" />
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertSantos-dev&icon_color=04cc5b&&bg_color=45,000000,030147&text_color=ffffff&hide_border=true&title_color=00d5ff&theme_name=dracula&layout=compact"/>
+  <img width="390px" src="https://github-readme-stats.vercel.app/api?username=RobertSantos-dev&bg_color=45,000000,030147&hide_border=true&show_icons=true&title_color=00d5ff&text_color=ffffff&icon_color=04cc5b" />
+  <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertSantos-dev&icon_color=04cc5b&&bg_color=45,000000,030147&text_color=ffffff&hide_border=true&title_color=00d5ff&theme_name=dracula&layout=compact"/>
 </div>
 <hr>
   
