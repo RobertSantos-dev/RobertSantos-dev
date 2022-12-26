@@ -1,7 +1,7 @@
 ## Olá meu nome é Robert Santos 👏🏼
 
-- 🇧🇷 Tenho 21 anos, meu primeiro contato com a area de programação foi em 2017. A partir disso venho buscando constantemente oportunidades na área.
-- 🖥️ Atualmente estou Estudando Desenvolvimento Front-End, porem é questão de tempo até iniciar os estudos em Back-End e o basico de Ciência da Computação. isso tudo graças a <a href="https://github.com/tryber" target="_blank">TRYBE</a>
+- 🇧🇷 Tenho 22 anos, meu primeiro contato com a area de programação foi em 2017, porem só em 2022 tive a oportunidade de explorar esta area. A partir disso venho buscando conhecimento para ingressar no mercado de trabalho.
+- 🖥️ Atualmente estou Estudando Desenvolvimento Front-End,Back-End, e em breve o basico de Ciência da Computação. isso tudo graças a <a href="https://github.com/tryber" target="_blank">TRYBE</a>
 - 💪🏼 A seguir um dos meus projetos ainda em desenvolvimento <a href="https://robertsantos-dev.github.io/" target="_blank">MEU PROJETO</a>
 <br>
 
