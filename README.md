@@ -127,3 +127,4 @@
 - <a href="https://www.w3schools.com/">W3Schools</a>
 - <a href="https://pt.stackoverflow.com/">Stack Overflow (em portugues)</a>
 - <a href="https://www.youtube.com/">Youtube</a>
+- <a href="https://react-icons.github.io/react-icons/">React Icons</a>
