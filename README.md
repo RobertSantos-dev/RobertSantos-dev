@@ -2,7 +2,7 @@
 
 - 🇧🇷 Tenho 22 anos, meu primeiro contato com a area de programação foi em 2017, porem só em 2022 tive a oportunidade de explorar esta area. A partir disso venho buscando conhecimento para ingressar no mercado de trabalho.
 - 🖥️ Atualmente estou Estudando o basico de Ciência da Computação. isso tudo graças a <a href="https://github.com/tryber" target="_blank">TRYBE</a>. E possuo certificação em Desenvolvimento FullStack
-- 💪🏼 A seguir um dos meus projetos ainda em desenvolvimento <a href="https://robertsantos-dev.github.io/" target="_blank">MEU PROJETO</a>
+<!-- - 💪🏼 A seguir um dos meus projetos ainda em desenvolvimento <a href="https://robertsantos-dev.github.io/" target="_blank">MEU PROJETO</a> -->
 <br>
 
 <h3 align="center">🤳 Status</h3>
