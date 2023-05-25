@@ -108,20 +108,40 @@
 </div>
 <hr>
 
+<h3 align="center">🚀 Projetos</h3>
 <br>
-
-  <h3 align="center">Destaques</h3>
-  <table align="center">
-    <thead>
-      <tr>
-        <td>Emojis</td>
-        <td>Tic Tac Toe</td>
-        <td>Forca</td>
-      </tr>
-    </thead>
-    <tbody>
-    </tbody>
-  </table>
+<table align="center">
+  <thead>
+    <tr>
+      <td align="center">
+        <strong>Tic Tac Toe</strong><br>
+        <a href="https://github.com/RobertSantos-dev/Tic-Tac-Toe" target="_blank">Repositório</a>
+      </td>
+      <td align="center">
+        <strong>Emojis</strong><br>
+        <a href="https://github.com/RobertSantos-dev/Emojis" target="_blank">Repositório</a>
+      </td>
+      <td align="center">
+        <strong>Jogo da Forca</strong><br>
+        <a href="https://github.com/RobertSantos-dev/Jogo-da-Forca" target="_blank">Repositório</a>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="./img/print1.png" width="190px" />
+      </td>
+      <td>
+        <img src="./img/print4.png" width="190px" />
+      </td>
+      <td>
+        <img src="./img/print2.jpg" width="70px" />
+        <img src="./img/print3.jpg" width="70px" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 <hr>
 
 <h3 align="center">🖱️ Sites preferidos durante o Desenvolvimento ⌨️</h3>
