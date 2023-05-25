@@ -108,6 +108,22 @@
 </div>
 <hr>
 
+<br>
+
+  <h3 align="center">Destaques</h3>
+  <table align="center">
+    <thead>
+      <tr>
+        <td>Emojis</td>
+        <td>Tic Tac Toe</td>
+        <td>Forca</td>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+<hr>
+
 <h3 align="center">🖱️ Sites preferidos durante o Desenvolvimento ⌨️</h3>
 <br>
 
