@@ -32,11 +32,7 @@
       <td rowspan="3" align="center">
         <img src="./img/icons/expo_icon.svg" color="white" />
         </br>
-        <div align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
-          </br>
-          <sup>React Native</sup>
-        </div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
       </td>
       <td rowspan="3" align="center">
         <img src="./img/icons/cy_icon.png" />
@@ -123,15 +119,14 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
         <img src="./img/prints/print1.png" width="190px" />
       </td>
-      <td>
+      <td align="center">
         <img src="./img/prints/print4.png" width="190px" />
       </td>
-      <td>
+      <td align="center">
         <img src="./img/prints/print2.jpg" width="50px" />
-        <img src="./img/prints/print3.jpg" width="50px" />
       </td>
     </tr>
   </tbody>
