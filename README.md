@@ -26,13 +26,17 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><strong>Front-End</strong></td>
-      <td align="center"><strong>Back-End</strong</td>
+      <td align="center"><strong>FrontEnd</strong></td>
+      <td align="center"><strong>BackEnd</strong</td>
       <td align="center"><strong>Databases</strong></td>
       <td rowspan="3" align="center">
         <img src="./img/icons/expo_icon.svg" color="white" />
         </br>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <div align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
+          </br>
+          <sup>React Native</sup>
+        </div>
       </td>
       <td rowspan="3" align="center">
         <img src="./img/icons/cy_icon.png" />
