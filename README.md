@@ -1,7 +1,7 @@
 ## Olá meu nome é Robert Santos 👏🏼
 
-- 🇧🇷 Tenho 22 anos, meu primeiro contato com a area de programação foi em 2017, porem só em 2022 tive a oportunidade de explorar esta area. A partir disso venho buscando conhecimento para ingressar no mercado de trabalho.
-- 🖥️ Atualmente estou Estudando o basico de Ciência da Computação. isso tudo graças a <a href="https://github.com/tryber" target="_blank">TRYBE</a>. E possuo certificação em Desenvolvimento FullStack
+- 🇧🇷 Tenho 22 anos, meu primeiro contato com a area de Informática foi em 2017, e em 2019 conheci a area de Desenvolvimento Web, no entanto, foi a partir de 2022 que tive a oportunidade de Explorar os conhecimentos da area.
+- 🖥️ Atualmente finalizei o meu curso de Desenvolvimento WEB FullStack pela <a href="https://github.com/tryber" target="_blank">TRYBE</a>. Que me proporcionou a maior parte das tecnologias listadas a baixo, alem de experiencias em trabalho em equipe, comunicação, liderança, tomada de decisão, etc.
 <!-- - 💪🏼 A seguir um dos meus projetos ainda em desenvolvimento <a href="https://robertsantos-dev.github.io/" target="_blank">MEU PROJETO</a> -->
 <br>
 
