@@ -20,7 +20,7 @@
     <tr>
       <th colspan="3">WEB</th>
       <th rowspan="1">Mobile</th>
-      <th>Pesquisas</th>
+      <th>Em Estudo</th>
       <th>Outros</th>
     </tr>
   </thead>
@@ -35,8 +35,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
       </td>
       <td rowspan="3" align="center">
-        <img src="./img/icons/cy_icon.png" />
+        <img src="./img/icons/prisma_icon.png" width="50px" />
         </br>
+        <img src="./img/icons/cy_icon.png" />
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="55px" /> -->
         </br>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="38px" /> -->
