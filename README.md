@@ -37,8 +37,8 @@
       <td rowspan="3" align="center">
         <img src="./img/icons/prisma_icon.png" width="50px" />
         </br>
-        <img src="./img/icons/cy_icon.png" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="55px" /> -->
+        <!-- <img src="./img/icons/cy_icon.png" /> -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="55px" />
         </br>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="38px" /> -->
       </td>
