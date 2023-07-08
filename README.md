@@ -35,12 +35,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
       </td>
       <td rowspan="3" align="center">
-        <img src="./img/icons/prisma_icon.png" width="50px" />
-        </br>
-        <!-- <img src="./img/icons/cy_icon.png" /> -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="85px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65px" />  
+<!-- <img src="./img/icons/prisma_icon.png" width="50px" /> -->
+<!-- <img src="./img/icons/cy_icon.png" /> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="85px" /> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="55px" /> -->
-        </br>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="38px" /> -->
       </td>
       <td rowspan="3" align="center">
@@ -64,6 +63,7 @@
         </br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="48px" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" width="75px" />
+        <img src="./img/icons/prisma_icon.png" width="45px" />
       </td>
       <td colspan="1" rowspan="2" align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65px" />
