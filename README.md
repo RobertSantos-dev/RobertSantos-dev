@@ -32,10 +32,12 @@
       <td rowspan="3" align="center">
         <img src="./img/icons/expo_icon.svg" color="white" />
         </br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" /> -->
       </td>
       <td rowspan="3" align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65px" />  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" />  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65px" />   -->
 <!-- <img src="./img/icons/prisma_icon.png" width="50px" /> -->
 <!-- <img src="./img/icons/cy_icon.png" /> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="85px" /> -->
