@@ -110,19 +110,19 @@
     <tr>
       <td align="center">
         <strong>Tic Tac Toe</strong><br>
-        <a href="https://github.com/RobertSantos-dev/Tic-Tac-Toe" target="blank">Repositório</a>
+        <a href="https://github.com/RobertSantos-dev/Tic-Tac-Toe" target="_blank">Repositório</a>
       </td>
       <td align="center">
         <strong>Emojis</strong><br>
-        <a href="https://github.com/RobertSantos-dev/Emojis" target="blank">Repositório</a>
+        <a href="https://github.com/RobertSantos-dev/Emojis" target="_blank">Repositório</a>
       </td>
       <td align="center">
         <strong>Jogo da Forca</strong><br>
-        <a href="https://github.com/RobertSantos-dev/Jogo-da-Forca" target="blank">Repositório</a>
+        <a href="https://github.com/RobertSantos-dev/Jogo-da-Forca" target="_blank">Repositório</a>
       </td>
       <td align="center">
         <strong>Lista Rick and Morty</strong><br>
-        <a href="https://projeto-next13.vercel.app/" target="blank">Deploy</a>
+        <a href="https://projeto-next13.vercel.app/" target="_blank">Deploy</a>
       </td>
     </tr>
   </thead>
