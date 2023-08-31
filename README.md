@@ -31,12 +31,12 @@
       <td align="center"><strong>Databases</strong></td>
       <td rowspan="3" align="center">
         <img src="./img/icons/expo_icon.svg" color="white" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
         </br>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" /> -->
       </td>
       <td rowspan="3" align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" />  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38px" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" /> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="65px" />   -->
 <!-- <img src="./img/icons/prisma_icon.png" width="50px" /> -->
 <!-- <img src="./img/icons/cy_icon.png" /> -->
@@ -56,7 +56,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="48px" />
         </br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48px" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" /> 
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38px" /> -->
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48px" />
@@ -119,6 +120,10 @@
         <strong>Jogo da Forca</strong><br>
         <a href="https://github.com/RobertSantos-dev/Jogo-da-Forca" target="blank">Repositório</a>
       </td>
+      <td align="center">
+        <strong>Lista Rick and Morty</strong><br>
+        <a href="https://projeto-next13.vercel.app/" target="blank">Deploy</a>
+      </td>
     </tr>
   </thead>
   <tbody>
@@ -131,6 +136,9 @@
       </td>
       <td align="center">
         <img src="./img/prints/print2.jpg" width="50px" />
+      </td>
+      <td align="center">
+        <img src="./img/prints/print5.png" width="190px" />
       </td>
     </tr>
   </tbody>
